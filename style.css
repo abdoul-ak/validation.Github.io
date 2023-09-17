@@ -621,7 +621,7 @@ form{
 }
 
 
-@media screen and (max-width : 600px){
+@media screen and (max-width : 630px){
     header{
         gap: 64%;
     }
@@ -654,11 +654,12 @@ form{
     }
 
     .ACleft{
-        width: 22%;
+        width: 25%;
         height: 70%;
         border: 1px solid rgba(0, 0, 0, 0.4);
-        margin-left: 1%;
+        margin-left: 0.5%;
         margin-top: 4%;
+        font-size: 60%;
     }
 
     .ecrit1 p , .ecrit2 p , .ecrit3 p , .ecrit4 p , .ecrit5 p{
@@ -666,7 +667,7 @@ form{
     }
 
     .ACright{
-        width: 77%;
+        width: 82%;
         height: 85%;
         border: 1px solid rgba(0, 0, 0, 0.4);
         border-radius: 5px;
