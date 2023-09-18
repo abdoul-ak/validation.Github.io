@@ -705,6 +705,10 @@ form{
         margin-top: 20%;
     }
 
+    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
+        font-size: 20%;
+    }
+
     .Hleftbottom , .Hrightbottom , .Bleftbottom , .Brightbottom{
         height: 80%;
         width: 50%;
@@ -824,5 +828,165 @@ form{
        margin-right: 4%;
     } 
     
+
+}
+
+
+@media screen and (min-width : 631px) and (max-width : 900px){
+
+    header{
+        gap: 74%;
+    }
+    
+    .Hleft{
+        height: 95%;
+        width: 25%;
+    }
+    
+    .Hright{
+        height: 80%;
+        width: 40%;
+        gap: 10%;
+    }
+
+    .AC{
+        height: 600px;
+    }
+
+    .ACleft{
+        margin-left: -0.1%;
+        margin-left: 2%;
+    }
+
+    .ACright{
+        width: 82%;
+    }
+    
+    .p1ecrit p, .p2ecrit p, .p3ecrit p, .p4ecrit p , .part1_2 p , .part2_2 p , .part3_2 p , .part4_2 p{
+        font-size: 20%;
+    }
+
+    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p1_ecrit h5, .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
+        font-size: 45%;
+        margin-bottom: 20%;
+        margin-top: 30%;
+    }
+
+    .p1image , .p2image , .p3image , .p4image , .p1_image , .p2_image , .p3_image , .p4_image{
+        height: 50px;
+        width: 50px;
+    }
+
+    .reactwriting p , .bootstrapwriting p , .csswriting p , .htmlwriting p{
+        font-size: 65%;
+        margin-top: 15%;
+    }
+
+    .Hleftbottom , .Hrightbottom , .Bleftbottom , .Brightbottom{
+       margin-top: -2.5%;
+    }
+
+    .lesvideos{
+        height: 600px;
+        width: 82%;
+        margin-left: -1%;
+        margin-left: 18%;
+    }
+
+    .first{
+        width: 100%;
+        height: 10%;
+    }
+
+    .recherche2 p{
+        font-size: 50%;
+    }
+
+    .contact{
+        width: 78%;
+        margin-left: -1%;
+        margin-left: 22%;
+    }
+
+    .post{
+        gap: 2%;
+    }
+
+    .postR{
+        margin-left: 5%;
+        font-size: 90%;
+        margin-top: 1.5%;
+        width: 35%;
+    }
+
+    .last{
+        height: 500px;
+    }
+
+    .gauche{
+        width: 70%;
+        font-size: 95%;
+        padding-top: 5%;
+    }
+
+    .centre {
+        width: 90%;
+        font-size: 80%;
+        padding-top: 10%;
+    }
+
+    .droite{
+        width: 50%;
+        font-size: 90%;
+        padding-right: 3%;
+        padding-top: 5%;
+    }
+
+    .c1left , .c2left , .c3left , .c4left{
+        margin-right: 4%;
+    } 
+
+}
+
+@media screen and (min-width : 901px) and (max-width : 1200px){
+
+    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p1_ecrit h5, .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
+        font-size: 70%;
+        margin-bottom: 20%;
+        margin-top: 30%;
+    }
+
+    .p1ecrit p, .p2ecrit p, .p3ecrit p, .p4ecrit p , .part1_2 p , .part2_2 p , .part3_2 p , .part4_2 p{
+        font-size: 75%;
+    }
+
+    .reactwriting p , .bootstrapwriting p , .csswriting p , .htmlwriting p{
+        font-size: 80%;
+        margin-top: 15%;
+    }
+
+    .first{
+        width: 100%;
+        height: 10%;
+    }
+
+    .lesvideos{
+        height: 610px;
+    }
+
+    .recherche2 p{
+        font-size: 50%;
+    }
+
+    .video1 , .video2 , .video3{
+        margin-top: 10%;
+    }
+
+    .postR{
+        margin-left: 5%;
+        font-size: 90%;
+        margin-top: 1.5%;
+        width: 35%;
+    }
 
 }
