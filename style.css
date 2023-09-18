@@ -696,12 +696,18 @@ form{
     }
 
     .p4ecrit P , .part1_2 p , .part4_2 p{
-        margin-top: 25%;
+        margin-top: 15%;
     }
 
-    .p1_ecrit h5{
+    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5{
         font-size: 50%;
         margin-bottom: 10%;
+        margin-top: 20%;
+    }
+
+    .p1_ecrit h5 , .p4_ecrit h5{
+        font-size: 50%;
+        margin-bottom: 1%;
         margin-top: 20%;
     }
 
