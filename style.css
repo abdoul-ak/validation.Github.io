@@ -692,10 +692,10 @@ form{
 
     
     .p1ecrit p, .p2ecrit p, .p3ecrit p, .p4ecrit p , .part1_2 p , .part2_2 p , .part3_2 p , .part4_2 p{
-        font-size: 10%;
+        font-size: 8%;
     }
 
-    .p4ecrit P , .part1_2 p , .part4_2 p{
+    /*.p4ecrit P , .part1_2 p , .part4_2 p{
         margin-top: 15%;
     }
 
@@ -709,10 +709,10 @@ form{
         font-size: 50%;
         margin-bottom: 1%;
         margin-top: 20%;
-    }
+    }*/
 
-    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
-        font-size: 20%;
+    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p1_ecrit h5 , .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
+        font-size: 15%;
         margin-bottom: 10%;
         margin-top: 20%;
     }
