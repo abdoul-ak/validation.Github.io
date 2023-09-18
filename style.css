@@ -699,7 +699,7 @@ form{
         margin-top: 25%;
     }
 
-    .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p1_ecrit h5, .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
+    .p1_ecrit h5{
         font-size: 50%;
         margin-bottom: 10%;
         margin-top: 20%;
@@ -707,6 +707,8 @@ form{
 
     .p1ecrit h5, .p2ecrit h5, .p3ecrit h5, .p4ecrit h5 , .p2_ecrit h5, .p3_ecrit h5, .p4_ecrit h5{
         font-size: 20%;
+        margin-bottom: 10%;
+        margin-top: 20%;
     }
 
     .Hleftbottom , .Hrightbottom , .Bleftbottom , .Brightbottom{
